@@ -1,0 +1,27 @@
+{
+  "synthetic": true,
+  "baseline_only": false,
+  "scenarios": 40,
+  "defect_scenarios": 10,
+  "time_limit_sec": 8,
+  "num_search_workers": 1,
+  "python": "3.12.3",
+  "platform": "Linux-7.0.11-76070011-generic-x86_64-with-glibc2.39",
+  "processor": "x86_64",
+  "optimizer_vs_baseline": {
+    "WIN": 7,
+    "TIE": 22,
+    "LOSS": 0,
+    "NO_CANDIDATE": 3,
+    "SKIPPED": 8
+  },
+  "valid_layouts": 40,
+  "engine_errors": 0,
+  "complete": true,
+  "solver_status_counts": {
+    "BASELINE_FALLBACK": 3,
+    "FEASIBLE_TIMEOUT": 2,
+    "NO_ASSIGNABLE_PIECES": 8,
+    "OPTIMAL": 27
+  }
+}

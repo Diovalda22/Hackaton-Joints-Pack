@@ -1,0 +1,3340 @@
+[
+  {
+    "scenario_id": "easy_0",
+    "group": "easy",
+    "seed": 202600,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis easy 0",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 150,
+          "height_mm": 100,
+          "quantity": 4,
+          "allow_rotation_90": false,
+          "id": "ol_easy_0_0"
+        },
+        {
+          "label": "Komponen 1",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 50,
+          "height_mm": 50,
+          "quantity": 4,
+          "allow_rotation_90": false,
+          "id": "ol_easy_0_1"
+        }
+      ],
+      "id": "o_easy_0",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-easy-0-0",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 500,
+        "height_mm": 400,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_easy_0_0",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "easy_1",
+    "group": "easy",
+    "seed": 202601,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis easy 1",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 180,
+          "height_mm": 120,
+          "quantity": 4,
+          "allow_rotation_90": false,
+          "id": "ol_easy_1_0"
+        },
+        {
+          "label": "Komponen 1",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 60,
+          "height_mm": 60,
+          "quantity": 4,
+          "allow_rotation_90": false,
+          "id": "ol_easy_1_1"
+        }
+      ],
+      "id": "o_easy_1",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-easy-1-0",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 600,
+        "height_mm": 480,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_easy_1_0",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "easy_2",
+    "group": "easy",
+    "seed": 202602,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis easy 2",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 210,
+          "height_mm": 140,
+          "quantity": 4,
+          "allow_rotation_90": false,
+          "id": "ol_easy_2_0"
+        },
+        {
+          "label": "Komponen 1",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 70,
+          "height_mm": 70,
+          "quantity": 4,
+          "allow_rotation_90": false,
+          "id": "ol_easy_2_1"
+        }
+      ],
+      "id": "o_easy_2",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-easy-2-0",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 700,
+        "height_mm": 560,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_easy_2_0",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "easy_3",
+    "group": "easy",
+    "seed": 202603,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis easy 3",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 240,
+          "height_mm": 160,
+          "quantity": 4,
+          "allow_rotation_90": false,
+          "id": "ol_easy_3_0"
+        },
+        {
+          "label": "Komponen 1",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 80,
+          "height_mm": 80,
+          "quantity": 4,
+          "allow_rotation_90": false,
+          "id": "ol_easy_3_1"
+        }
+      ],
+      "id": "o_easy_3",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-easy-3-0",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 800,
+        "height_mm": 640,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_easy_3_0",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "easy_4",
+    "group": "easy",
+    "seed": 202604,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis easy 4",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 270,
+          "height_mm": 180,
+          "quantity": 4,
+          "allow_rotation_90": false,
+          "id": "ol_easy_4_0"
+        },
+        {
+          "label": "Komponen 1",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 90,
+          "height_mm": 90,
+          "quantity": 4,
+          "allow_rotation_90": false,
+          "id": "ol_easy_4_1"
+        }
+      ],
+      "id": "o_easy_4",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-easy-4-0",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 900,
+        "height_mm": 720,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_easy_4_0",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "competing_0",
+    "group": "competing",
+    "seed": 202605,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis competing 0",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 350,
+          "height_mm": 250,
+          "quantity": 1,
+          "allow_rotation_90": false,
+          "id": "ol_competing_0_0"
+        },
+        {
+          "label": "Komponen 1",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 300,
+          "height_mm": 150,
+          "quantity": 1,
+          "allow_rotation_90": false,
+          "id": "ol_competing_0_1"
+        }
+      ],
+      "id": "o_competing_0",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-competing-0-0",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 400,
+        "height_mm": 300,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_competing_0_0",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-competing-0-1",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 600,
+        "height_mm": 400,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_competing_0_1",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "competing_1",
+    "group": "competing",
+    "seed": 202606,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis competing 1",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 420,
+          "height_mm": 300,
+          "quantity": 1,
+          "allow_rotation_90": false,
+          "id": "ol_competing_1_0"
+        },
+        {
+          "label": "Komponen 1",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 360,
+          "height_mm": 180,
+          "quantity": 1,
+          "allow_rotation_90": false,
+          "id": "ol_competing_1_1"
+        }
+      ],
+      "id": "o_competing_1",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-competing-1-0",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 480,
+        "height_mm": 360,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_competing_1_0",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-competing-1-1",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 720,
+        "height_mm": 480,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_competing_1_1",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "competing_2",
+    "group": "competing",
+    "seed": 202607,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis competing 2",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 490,
+          "height_mm": 350,
+          "quantity": 1,
+          "allow_rotation_90": false,
+          "id": "ol_competing_2_0"
+        },
+        {
+          "label": "Komponen 1",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 420,
+          "height_mm": 210,
+          "quantity": 1,
+          "allow_rotation_90": false,
+          "id": "ol_competing_2_1"
+        }
+      ],
+      "id": "o_competing_2",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-competing-2-0",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 560,
+        "height_mm": 420,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_competing_2_0",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-competing-2-1",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 840,
+        "height_mm": 560,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_competing_2_1",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "competing_3",
+    "group": "competing",
+    "seed": 202608,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis competing 3",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 560,
+          "height_mm": 400,
+          "quantity": 1,
+          "allow_rotation_90": false,
+          "id": "ol_competing_3_0"
+        },
+        {
+          "label": "Komponen 1",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 480,
+          "height_mm": 240,
+          "quantity": 1,
+          "allow_rotation_90": false,
+          "id": "ol_competing_3_1"
+        }
+      ],
+      "id": "o_competing_3",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-competing-3-0",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 640,
+        "height_mm": 480,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_competing_3_0",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-competing-3-1",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 960,
+        "height_mm": 640,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_competing_3_1",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "competing_4",
+    "group": "competing",
+    "seed": 202609,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis competing 4",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 630,
+          "height_mm": 450,
+          "quantity": 1,
+          "allow_rotation_90": false,
+          "id": "ol_competing_4_0"
+        },
+        {
+          "label": "Komponen 1",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 540,
+          "height_mm": 270,
+          "quantity": 1,
+          "allow_rotation_90": false,
+          "id": "ol_competing_4_1"
+        }
+      ],
+      "id": "o_competing_4",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-competing-4-0",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 720,
+        "height_mm": 540,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_competing_4_0",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-competing-4-1",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 1080,
+        "height_mm": 720,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_competing_4_1",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "material_0",
+    "group": "material",
+    "seed": 202610,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis material 0",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 200,
+          "height_mm": 150,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_material_0_0"
+        }
+      ],
+      "id": "o_material_0",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-material-0-0",
+        "lot_code": "",
+        "material_code": "DENIM",
+        "color_code": "BLACK",
+        "width_mm": 500,
+        "height_mm": 500,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_material_0_0",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-material-0-1",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "WHITE",
+        "width_mm": 500,
+        "height_mm": 500,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_material_0_1",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "material_1",
+    "group": "material",
+    "seed": 202611,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis material 1",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 240,
+          "height_mm": 180,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_material_1_0"
+        }
+      ],
+      "id": "o_material_1",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-material-1-0",
+        "lot_code": "",
+        "material_code": "DENIM",
+        "color_code": "BLACK",
+        "width_mm": 600,
+        "height_mm": 600,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_material_1_0",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-material-1-1",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "WHITE",
+        "width_mm": 600,
+        "height_mm": 600,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_material_1_1",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-material-1-2",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 300,
+        "height_mm": 240,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_material_1_2",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "material_2",
+    "group": "material",
+    "seed": 202612,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis material 2",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 280,
+          "height_mm": 210,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_material_2_0"
+        }
+      ],
+      "id": "o_material_2",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-material-2-0",
+        "lot_code": "",
+        "material_code": "DENIM",
+        "color_code": "BLACK",
+        "width_mm": 700,
+        "height_mm": 700,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_material_2_0",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-material-2-1",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "WHITE",
+        "width_mm": 700,
+        "height_mm": 700,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_material_2_1",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "material_3",
+    "group": "material",
+    "seed": 202613,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis material 3",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 320,
+          "height_mm": 240,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_material_3_0"
+        }
+      ],
+      "id": "o_material_3",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-material-3-0",
+        "lot_code": "",
+        "material_code": "DENIM",
+        "color_code": "BLACK",
+        "width_mm": 800,
+        "height_mm": 800,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_material_3_0",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-material-3-1",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "WHITE",
+        "width_mm": 800,
+        "height_mm": 800,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_material_3_1",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-material-3-2",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 400,
+        "height_mm": 320,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_material_3_2",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "material_4",
+    "group": "material",
+    "seed": 202614,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis material 4",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 360,
+          "height_mm": 270,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_material_4_0"
+        }
+      ],
+      "id": "o_material_4",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-material-4-0",
+        "lot_code": "",
+        "material_code": "DENIM",
+        "color_code": "BLACK",
+        "width_mm": 900,
+        "height_mm": 900,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_material_4_0",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-material-4-1",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "WHITE",
+        "width_mm": 900,
+        "height_mm": 900,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_material_4_1",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "qualification_0",
+    "group": "qualification",
+    "seed": 202615,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis qualification 0",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 200,
+          "height_mm": 150,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_qualification_0_0"
+        }
+      ],
+      "id": "o_qualification_0",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-qualification-0-0",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 500,
+        "height_mm": 500,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_qualification_0_0",
+        "verification_status": "NEEDS_REVIEW",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-qualification-0-1",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 500,
+        "height_mm": 500,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_qualification_0_1",
+        "verification_status": "VERIFIED",
+        "stock_status": "QUARANTINED",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-qualification-0-2",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 500,
+        "height_mm": 500,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_qualification_0_2",
+        "verification_status": "VERIFIED",
+        "stock_status": "ARCHIVED",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "qualification_1",
+    "group": "qualification",
+    "seed": 202616,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis qualification 1",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 240,
+          "height_mm": 180,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_qualification_1_0"
+        }
+      ],
+      "id": "o_qualification_1",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-qualification-1-0",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 600,
+        "height_mm": 600,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_qualification_1_0",
+        "verification_status": "NEEDS_REVIEW",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-qualification-1-1",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 600,
+        "height_mm": 600,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_qualification_1_1",
+        "verification_status": "VERIFIED",
+        "stock_status": "QUARANTINED",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-qualification-1-2",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 600,
+        "height_mm": 600,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_qualification_1_2",
+        "verification_status": "VERIFIED",
+        "stock_status": "ARCHIVED",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-qualification-1-3",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 240,
+        "height_mm": 180,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_qualification_1_3",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "qualification_2",
+    "group": "qualification",
+    "seed": 202617,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis qualification 2",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 280,
+          "height_mm": 210,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_qualification_2_0"
+        }
+      ],
+      "id": "o_qualification_2",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-qualification-2-0",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 700,
+        "height_mm": 700,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_qualification_2_0",
+        "verification_status": "NEEDS_REVIEW",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-qualification-2-1",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 700,
+        "height_mm": 700,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_qualification_2_1",
+        "verification_status": "VERIFIED",
+        "stock_status": "QUARANTINED",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-qualification-2-2",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 700,
+        "height_mm": 700,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_qualification_2_2",
+        "verification_status": "VERIFIED",
+        "stock_status": "ARCHIVED",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "qualification_3",
+    "group": "qualification",
+    "seed": 202618,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis qualification 3",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 320,
+          "height_mm": 240,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_qualification_3_0"
+        }
+      ],
+      "id": "o_qualification_3",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-qualification-3-0",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 800,
+        "height_mm": 800,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_qualification_3_0",
+        "verification_status": "NEEDS_REVIEW",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-qualification-3-1",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 800,
+        "height_mm": 800,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_qualification_3_1",
+        "verification_status": "VERIFIED",
+        "stock_status": "QUARANTINED",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-qualification-3-2",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 800,
+        "height_mm": 800,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_qualification_3_2",
+        "verification_status": "VERIFIED",
+        "stock_status": "ARCHIVED",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-qualification-3-3",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 320,
+        "height_mm": 240,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_qualification_3_3",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "qualification_4",
+    "group": "qualification",
+    "seed": 202619,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis qualification 4",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 360,
+          "height_mm": 270,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_qualification_4_0"
+        }
+      ],
+      "id": "o_qualification_4",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-qualification-4-0",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 900,
+        "height_mm": 900,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_qualification_4_0",
+        "verification_status": "NEEDS_REVIEW",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-qualification-4-1",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 900,
+        "height_mm": 900,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_qualification_4_1",
+        "verification_status": "VERIFIED",
+        "stock_status": "QUARANTINED",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-qualification-4-2",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 900,
+        "height_mm": 900,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_qualification_4_2",
+        "verification_status": "VERIFIED",
+        "stock_status": "ARCHIVED",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "rotation_0",
+    "group": "rotation",
+    "seed": 202620,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis rotation 0",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 350,
+          "height_mm": 200,
+          "quantity": 1,
+          "allow_rotation_90": true,
+          "id": "ol_rotation_0_0"
+        }
+      ],
+      "id": "o_rotation_0",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-rotation-0-0",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 200,
+        "height_mm": 350,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_rotation_0_0",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "rotation_1",
+    "group": "rotation",
+    "seed": 202621,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis rotation 1",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 420,
+          "height_mm": 240,
+          "quantity": 1,
+          "allow_rotation_90": false,
+          "id": "ol_rotation_1_0"
+        }
+      ],
+      "id": "o_rotation_1",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-rotation-1-0",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 240,
+        "height_mm": 420,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_rotation_1_0",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "rotation_2",
+    "group": "rotation",
+    "seed": 202622,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis rotation 2",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 490,
+          "height_mm": 280,
+          "quantity": 1,
+          "allow_rotation_90": true,
+          "id": "ol_rotation_2_0"
+        }
+      ],
+      "id": "o_rotation_2",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-rotation-2-0",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 280,
+        "height_mm": 490,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_rotation_2_0",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "rotation_3",
+    "group": "rotation",
+    "seed": 202623,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis rotation 3",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 560,
+          "height_mm": 320,
+          "quantity": 1,
+          "allow_rotation_90": false,
+          "id": "ol_rotation_3_0"
+        }
+      ],
+      "id": "o_rotation_3",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-rotation-3-0",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 320,
+        "height_mm": 560,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_rotation_3_0",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "rotation_4",
+    "group": "rotation",
+    "seed": 202624,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis rotation 4",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 630,
+          "height_mm": 360,
+          "quantity": 1,
+          "allow_rotation_90": true,
+          "id": "ol_rotation_4_0"
+        }
+      ],
+      "id": "o_rotation_4",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-rotation-4-0",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 360,
+        "height_mm": 630,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_rotation_4_0",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "dense_0",
+    "group": "dense",
+    "seed": 202625,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis dense 0",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 100,
+          "height_mm": 250,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_0_0"
+        },
+        {
+          "label": "Komponen 1",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 250,
+          "height_mm": 200,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_0_1"
+        },
+        {
+          "label": "Komponen 2",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 350,
+          "height_mm": 150,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_0_2"
+        },
+        {
+          "label": "Komponen 3",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 100,
+          "height_mm": 100,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_0_3"
+        },
+        {
+          "label": "Komponen 4",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 350,
+          "height_mm": 150,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_0_4"
+        },
+        {
+          "label": "Komponen 5",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 250,
+          "height_mm": 250,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_0_5"
+        },
+        {
+          "label": "Komponen 6",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 350,
+          "height_mm": 350,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_0_6"
+        },
+        {
+          "label": "Komponen 7",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 300,
+          "height_mm": 200,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_0_7"
+        },
+        {
+          "label": "Komponen 8",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 150,
+          "height_mm": 150,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_0_8"
+        },
+        {
+          "label": "Komponen 9",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 100,
+          "height_mm": 100,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_0_9"
+        },
+        {
+          "label": "Komponen 10",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 200,
+          "height_mm": 350,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_0_10"
+        },
+        {
+          "label": "Komponen 11",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 200,
+          "height_mm": 100,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_0_11"
+        },
+        {
+          "label": "Komponen 12",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 150,
+          "height_mm": 100,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_0_12"
+        },
+        {
+          "label": "Komponen 13",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 100,
+          "height_mm": 350,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_0_13"
+        },
+        {
+          "label": "Komponen 14",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 200,
+          "height_mm": 300,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_0_14"
+        }
+      ],
+      "id": "o_dense_0",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-dense-0-0",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 550,
+        "height_mm": 600,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_dense_0_0",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-dense-0-1",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 450,
+        "height_mm": 400,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_dense_0_1",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-dense-0-2",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 500,
+        "height_mm": 700,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_dense_0_2",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-dense-0-3",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 650,
+        "height_mm": 400,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_dense_0_3",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-dense-0-4",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 700,
+        "height_mm": 400,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_dense_0_4",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "dense_1",
+    "group": "dense",
+    "seed": 202626,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis dense 1",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 120,
+          "height_mm": 240,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_1_0"
+        },
+        {
+          "label": "Komponen 1",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 300,
+          "height_mm": 180,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_1_1"
+        },
+        {
+          "label": "Komponen 2",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 240,
+          "height_mm": 360,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_1_2"
+        },
+        {
+          "label": "Komponen 3",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 360,
+          "height_mm": 240,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_1_3"
+        },
+        {
+          "label": "Komponen 4",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 180,
+          "height_mm": 240,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_1_4"
+        },
+        {
+          "label": "Komponen 5",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 360,
+          "height_mm": 180,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_1_5"
+        },
+        {
+          "label": "Komponen 6",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 420,
+          "height_mm": 180,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_1_6"
+        },
+        {
+          "label": "Komponen 7",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 300,
+          "height_mm": 360,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_1_7"
+        },
+        {
+          "label": "Komponen 8",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 360,
+          "height_mm": 300,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_1_8"
+        },
+        {
+          "label": "Komponen 9",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 420,
+          "height_mm": 120,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_1_9"
+        },
+        {
+          "label": "Komponen 10",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 240,
+          "height_mm": 300,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_1_10"
+        },
+        {
+          "label": "Komponen 11",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 180,
+          "height_mm": 420,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_1_11"
+        },
+        {
+          "label": "Komponen 12",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 240,
+          "height_mm": 180,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_1_12"
+        },
+        {
+          "label": "Komponen 13",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 300,
+          "height_mm": 120,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_1_13"
+        },
+        {
+          "label": "Komponen 14",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 300,
+          "height_mm": 360,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_1_14"
+        }
+      ],
+      "id": "o_dense_1",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-dense-1-0",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 480,
+        "height_mm": 660,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_dense_1_0",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-dense-1-1",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 600,
+        "height_mm": 540,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_dense_1_1",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-dense-1-2",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 840,
+        "height_mm": 780,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_dense_1_2",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-dense-1-3",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 540,
+        "height_mm": 780,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_dense_1_3",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-dense-1-4",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 780,
+        "height_mm": 660,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_dense_1_4",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "dense_2",
+    "group": "dense",
+    "seed": 202627,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis dense 2",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 420,
+          "height_mm": 420,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_2_0"
+        },
+        {
+          "label": "Komponen 1",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 210,
+          "height_mm": 490,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_2_1"
+        },
+        {
+          "label": "Komponen 2",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 280,
+          "height_mm": 490,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_2_2"
+        },
+        {
+          "label": "Komponen 3",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 210,
+          "height_mm": 350,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_2_3"
+        },
+        {
+          "label": "Komponen 4",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 140,
+          "height_mm": 140,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_2_4"
+        },
+        {
+          "label": "Komponen 5",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 140,
+          "height_mm": 280,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_2_5"
+        },
+        {
+          "label": "Komponen 6",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 210,
+          "height_mm": 490,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_2_6"
+        },
+        {
+          "label": "Komponen 7",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 210,
+          "height_mm": 490,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_2_7"
+        },
+        {
+          "label": "Komponen 8",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 210,
+          "height_mm": 420,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_2_8"
+        },
+        {
+          "label": "Komponen 9",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 490,
+          "height_mm": 140,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_2_9"
+        },
+        {
+          "label": "Komponen 10",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 210,
+          "height_mm": 350,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_2_10"
+        },
+        {
+          "label": "Komponen 11",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 280,
+          "height_mm": 350,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_2_11"
+        },
+        {
+          "label": "Komponen 12",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 350,
+          "height_mm": 280,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_2_12"
+        },
+        {
+          "label": "Komponen 13",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 350,
+          "height_mm": 420,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_2_13"
+        },
+        {
+          "label": "Komponen 14",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 140,
+          "height_mm": 280,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_2_14"
+        }
+      ],
+      "id": "o_dense_2",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-dense-2-0",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 840,
+        "height_mm": 840,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_dense_2_0",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-dense-2-1",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 490,
+        "height_mm": 910,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_dense_2_1",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-dense-2-2",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 980,
+        "height_mm": 560,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_dense_2_2",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-dense-2-3",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 980,
+        "height_mm": 840,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_dense_2_3",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-dense-2-4",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 980,
+        "height_mm": 910,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_dense_2_4",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "dense_3",
+    "group": "dense",
+    "seed": 202628,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis dense 3",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 160,
+          "height_mm": 320,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_3_0"
+        },
+        {
+          "label": "Komponen 1",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 240,
+          "height_mm": 560,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_3_1"
+        },
+        {
+          "label": "Komponen 2",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 240,
+          "height_mm": 480,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_3_2"
+        },
+        {
+          "label": "Komponen 3",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 480,
+          "height_mm": 160,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_3_3"
+        },
+        {
+          "label": "Komponen 4",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 160,
+          "height_mm": 480,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_3_4"
+        },
+        {
+          "label": "Komponen 5",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 480,
+          "height_mm": 560,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_3_5"
+        },
+        {
+          "label": "Komponen 6",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 320,
+          "height_mm": 560,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_3_6"
+        },
+        {
+          "label": "Komponen 7",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 400,
+          "height_mm": 240,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_3_7"
+        },
+        {
+          "label": "Komponen 8",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 320,
+          "height_mm": 560,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_3_8"
+        },
+        {
+          "label": "Komponen 9",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 320,
+          "height_mm": 400,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_3_9"
+        },
+        {
+          "label": "Komponen 10",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 160,
+          "height_mm": 560,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_3_10"
+        },
+        {
+          "label": "Komponen 11",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 560,
+          "height_mm": 160,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_3_11"
+        },
+        {
+          "label": "Komponen 12",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 400,
+          "height_mm": 160,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_3_12"
+        },
+        {
+          "label": "Komponen 13",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 320,
+          "height_mm": 240,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_3_13"
+        },
+        {
+          "label": "Komponen 14",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 320,
+          "height_mm": 480,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_3_14"
+        }
+      ],
+      "id": "o_dense_3",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-dense-3-0",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 720,
+        "height_mm": 560,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_dense_3_0",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-dense-3-1",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 880,
+        "height_mm": 560,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_dense_3_1",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-dense-3-2",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 560,
+        "height_mm": 800,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_dense_3_2",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-dense-3-3",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 1040,
+        "height_mm": 960,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_dense_3_3",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-dense-3-4",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 640,
+        "height_mm": 640,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_dense_3_4",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "dense_4",
+    "group": "dense",
+    "seed": 202629,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis dense 4",
+      "lines": [
+        {
+          "label": "Komponen 0",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 360,
+          "height_mm": 630,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_4_0"
+        },
+        {
+          "label": "Komponen 1",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 540,
+          "height_mm": 630,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_4_1"
+        },
+        {
+          "label": "Komponen 2",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 540,
+          "height_mm": 630,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_4_2"
+        },
+        {
+          "label": "Komponen 3",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 360,
+          "height_mm": 270,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_4_3"
+        },
+        {
+          "label": "Komponen 4",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 180,
+          "height_mm": 270,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_4_4"
+        },
+        {
+          "label": "Komponen 5",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 270,
+          "height_mm": 630,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_4_5"
+        },
+        {
+          "label": "Komponen 6",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 360,
+          "height_mm": 540,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_4_6"
+        },
+        {
+          "label": "Komponen 7",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 270,
+          "height_mm": 540,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_4_7"
+        },
+        {
+          "label": "Komponen 8",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 540,
+          "height_mm": 360,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_4_8"
+        },
+        {
+          "label": "Komponen 9",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 450,
+          "height_mm": 450,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_4_9"
+        },
+        {
+          "label": "Komponen 10",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 540,
+          "height_mm": 360,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_4_10"
+        },
+        {
+          "label": "Komponen 11",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 270,
+          "height_mm": 180,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_4_11"
+        },
+        {
+          "label": "Komponen 12",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 630,
+          "height_mm": 270,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_4_12"
+        },
+        {
+          "label": "Komponen 13",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 540,
+          "height_mm": 360,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_dense_4_13"
+        },
+        {
+          "label": "Komponen 14",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 270,
+          "height_mm": 360,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_dense_4_14"
+        }
+      ],
+      "id": "o_dense_4",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "B-dense-4-0",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 720,
+        "height_mm": 630,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_dense_4_0",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-dense-4-1",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 630,
+        "height_mm": 720,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_dense_4_1",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-dense-4-2",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 630,
+        "height_mm": 810,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_dense_4_2",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-dense-4-3",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 990,
+        "height_mm": 630,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_dense_4_3",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      },
+      {
+        "code": "B-dense-4-4",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 990,
+        "height_mm": 720,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis berseed",
+        "id": "r_dense_4_4",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "scenario_id": "defect_0",
+    "group": "defect",
+    "seed": 20261013,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis defect 0",
+      "lines": [
+        {
+          "label": "Panel",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 300,
+          "height_mm": 200,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_defect_0"
+        }
+      ],
+      "id": "o_defect_0",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "DEFECT-0",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 700,
+        "height_mm": 600,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis defect",
+        "id": "r_defect_0",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ],
+    "remnant_defects": {
+      "r_defect_0": [
+        {
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 150,
+          "height_mm": 300,
+          "defect_type": "HOLE",
+          "note": "Pemetaan sintetis",
+          "id": "d_0_0",
+          "remnant_id": "r_defect_0",
+          "verified_by_operator_at": null
+        },
+        {
+          "x_mm": 400,
+          "y_mm": 300,
+          "width_mm": 100,
+          "height_mm": 200,
+          "defect_type": "HOLE",
+          "note": "Pemetaan sintetis",
+          "id": "d_0_1",
+          "remnant_id": "r_defect_0",
+          "verified_by_operator_at": null
+        }
+      ]
+    }
+  },
+  {
+    "scenario_id": "defect_1",
+    "group": "defect",
+    "seed": 20261014,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis defect 1",
+      "lines": [
+        {
+          "label": "Panel",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 305,
+          "height_mm": 200,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_defect_1"
+        }
+      ],
+      "id": "o_defect_1",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "DEFECT-1",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 720,
+        "height_mm": 630,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis defect",
+        "id": "r_defect_1",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ],
+    "remnant_defects": {
+      "r_defect_1": [
+        {
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 150,
+          "height_mm": 300,
+          "defect_type": "HOLE",
+          "note": "Pemetaan sintetis",
+          "id": "d_1_0",
+          "remnant_id": "r_defect_1",
+          "verified_by_operator_at": null
+        },
+        {
+          "x_mm": 400,
+          "y_mm": 300,
+          "width_mm": 100,
+          "height_mm": 200,
+          "defect_type": "HOLE",
+          "note": "Pemetaan sintetis",
+          "id": "d_1_1",
+          "remnant_id": "r_defect_1",
+          "verified_by_operator_at": null
+        }
+      ]
+    }
+  },
+  {
+    "scenario_id": "defect_2",
+    "group": "defect",
+    "seed": 20261015,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis defect 2",
+      "lines": [
+        {
+          "label": "Panel",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 310,
+          "height_mm": 200,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_defect_2"
+        }
+      ],
+      "id": "o_defect_2",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "DEFECT-2",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 740,
+        "height_mm": 660,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis defect",
+        "id": "r_defect_2",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ],
+    "remnant_defects": {
+      "r_defect_2": [
+        {
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 150,
+          "height_mm": 300,
+          "defect_type": "HOLE",
+          "note": "Pemetaan sintetis",
+          "id": "d_2_0",
+          "remnant_id": "r_defect_2",
+          "verified_by_operator_at": null
+        },
+        {
+          "x_mm": 400,
+          "y_mm": 300,
+          "width_mm": 100,
+          "height_mm": 200,
+          "defect_type": "HOLE",
+          "note": "Pemetaan sintetis",
+          "id": "d_2_1",
+          "remnant_id": "r_defect_2",
+          "verified_by_operator_at": null
+        }
+      ]
+    }
+  },
+  {
+    "scenario_id": "defect_3",
+    "group": "defect",
+    "seed": 20261016,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis defect 3",
+      "lines": [
+        {
+          "label": "Panel",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 315,
+          "height_mm": 200,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_defect_3"
+        }
+      ],
+      "id": "o_defect_3",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "DEFECT-3",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 760,
+        "height_mm": 690,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis defect",
+        "id": "r_defect_3",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ],
+    "remnant_defects": {
+      "r_defect_3": [
+        {
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 150,
+          "height_mm": 300,
+          "defect_type": "HOLE",
+          "note": "Pemetaan sintetis",
+          "id": "d_3_0",
+          "remnant_id": "r_defect_3",
+          "verified_by_operator_at": null
+        },
+        {
+          "x_mm": 400,
+          "y_mm": 300,
+          "width_mm": 100,
+          "height_mm": 200,
+          "defect_type": "HOLE",
+          "note": "Pemetaan sintetis",
+          "id": "d_3_1",
+          "remnant_id": "r_defect_3",
+          "verified_by_operator_at": null
+        }
+      ]
+    }
+  },
+  {
+    "scenario_id": "defect_4",
+    "group": "defect",
+    "seed": 20261017,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis defect 4",
+      "lines": [
+        {
+          "label": "Panel",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 320,
+          "height_mm": 200,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_defect_4"
+        }
+      ],
+      "id": "o_defect_4",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "DEFECT-4",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 780,
+        "height_mm": 720,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis defect",
+        "id": "r_defect_4",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ],
+    "remnant_defects": {
+      "r_defect_4": [
+        {
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 150,
+          "height_mm": 300,
+          "defect_type": "HOLE",
+          "note": "Pemetaan sintetis",
+          "id": "d_4_0",
+          "remnant_id": "r_defect_4",
+          "verified_by_operator_at": null
+        },
+        {
+          "x_mm": 400,
+          "y_mm": 300,
+          "width_mm": 100,
+          "height_mm": 200,
+          "defect_type": "HOLE",
+          "note": "Pemetaan sintetis",
+          "id": "d_4_1",
+          "remnant_id": "r_defect_4",
+          "verified_by_operator_at": null
+        }
+      ]
+    }
+  },
+  {
+    "scenario_id": "defect_5",
+    "group": "defect",
+    "seed": 20261018,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis defect 5",
+      "lines": [
+        {
+          "label": "Panel",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 325,
+          "height_mm": 200,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_defect_5"
+        }
+      ],
+      "id": "o_defect_5",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "DEFECT-5",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 800,
+        "height_mm": 750,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis defect",
+        "id": "r_defect_5",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ],
+    "remnant_defects": {
+      "r_defect_5": [
+        {
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 150,
+          "height_mm": 300,
+          "defect_type": "HOLE",
+          "note": "Pemetaan sintetis",
+          "id": "d_5_0",
+          "remnant_id": "r_defect_5",
+          "verified_by_operator_at": null
+        },
+        {
+          "x_mm": 400,
+          "y_mm": 300,
+          "width_mm": 100,
+          "height_mm": 200,
+          "defect_type": "HOLE",
+          "note": "Pemetaan sintetis",
+          "id": "d_5_1",
+          "remnant_id": "r_defect_5",
+          "verified_by_operator_at": null
+        }
+      ]
+    }
+  },
+  {
+    "scenario_id": "defect_6",
+    "group": "defect",
+    "seed": 20261019,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis defect 6",
+      "lines": [
+        {
+          "label": "Panel",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 330,
+          "height_mm": 200,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_defect_6"
+        }
+      ],
+      "id": "o_defect_6",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "DEFECT-6",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 820,
+        "height_mm": 780,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis defect",
+        "id": "r_defect_6",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ],
+    "remnant_defects": {
+      "r_defect_6": [
+        {
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 150,
+          "height_mm": 300,
+          "defect_type": "HOLE",
+          "note": "Pemetaan sintetis",
+          "id": "d_6_0",
+          "remnant_id": "r_defect_6",
+          "verified_by_operator_at": null
+        },
+        {
+          "x_mm": 400,
+          "y_mm": 300,
+          "width_mm": 100,
+          "height_mm": 200,
+          "defect_type": "HOLE",
+          "note": "Pemetaan sintetis",
+          "id": "d_6_1",
+          "remnant_id": "r_defect_6",
+          "verified_by_operator_at": null
+        }
+      ]
+    }
+  },
+  {
+    "scenario_id": "defect_7",
+    "group": "defect",
+    "seed": 20261020,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis defect 7",
+      "lines": [
+        {
+          "label": "Panel",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 335,
+          "height_mm": 200,
+          "quantity": 2,
+          "allow_rotation_90": true,
+          "id": "ol_defect_7"
+        }
+      ],
+      "id": "o_defect_7",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "DEFECT-7",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 840,
+        "height_mm": 810,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis defect",
+        "id": "r_defect_7",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ],
+    "remnant_defects": {
+      "r_defect_7": [
+        {
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 150,
+          "height_mm": 300,
+          "defect_type": "HOLE",
+          "note": "Pemetaan sintetis",
+          "id": "d_7_0",
+          "remnant_id": "r_defect_7",
+          "verified_by_operator_at": null
+        },
+        {
+          "x_mm": 400,
+          "y_mm": 300,
+          "width_mm": 100,
+          "height_mm": 200,
+          "defect_type": "HOLE",
+          "note": "Pemetaan sintetis",
+          "id": "d_7_1",
+          "remnant_id": "r_defect_7",
+          "verified_by_operator_at": null
+        }
+      ]
+    }
+  },
+  {
+    "scenario_id": "defect_8",
+    "group": "defect",
+    "seed": 20261021,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis defect 8",
+      "lines": [
+        {
+          "label": "Panel",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 340,
+          "height_mm": 200,
+          "quantity": 2,
+          "allow_rotation_90": false,
+          "id": "ol_defect_8"
+        }
+      ],
+      "id": "o_defect_8",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "DEFECT-8",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 860,
+        "height_mm": 840,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis defect",
+        "id": "r_defect_8",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ],
+    "remnant_defects": {
+      "r_defect_8": [
+        {
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 860,
+          "height_mm": 840,
+          "defect_type": "HOLE",
+          "note": "Pemetaan sintetis",
+          "id": "d_8_0",
+          "remnant_id": "r_defect_8",
+          "verified_by_operator_at": null
+        }
+      ]
+    }
+  },
+  {
+    "scenario_id": "defect_9",
+    "group": "defect",
+    "seed": 20261022,
+    "synthetic": true,
+    "order": {
+      "name": "Sintetis defect 9",
+      "lines": [
+        {
+          "label": "Panel",
+          "material_code": "COTTON",
+          "color_code": "BLACK",
+          "width_mm": 800,
+          "height_mm": 300,
+          "quantity": 1,
+          "allow_rotation_90": true,
+          "id": "ol_defect_9"
+        }
+      ],
+      "id": "o_defect_9",
+      "created_at": "2026-10-13T01:00:00Z",
+      "updated_at": "2026-10-13T01:00:00Z"
+    },
+    "remnants": [
+      {
+        "code": "DEFECT-9",
+        "lot_code": "",
+        "material_code": "COTTON",
+        "color_code": "BLACK",
+        "width_mm": 400,
+        "height_mm": 1000,
+        "condition_note": "",
+        "source_note": "Benchmark sintetis defect",
+        "id": "r_defect_9",
+        "verification_status": "VERIFIED",
+        "stock_status": "AVAILABLE",
+        "created_at": "2026-10-13T01:00:00Z",
+        "updated_at": "2026-10-13T01:00:00Z"
+      }
+    ],
+    "remnant_defects": {
+      "r_defect_9": [
+        {
+          "x_mm": 300,
+          "y_mm": 0,
+          "width_mm": 100,
+          "height_mm": 1000,
+          "defect_type": "HOLE",
+          "note": "Pemetaan sintetis",
+          "id": "d_9_0",
+          "remnant_id": "r_defect_9",
+          "verified_by_operator_at": null
+        }
+      ]
+    }
+  }
+]

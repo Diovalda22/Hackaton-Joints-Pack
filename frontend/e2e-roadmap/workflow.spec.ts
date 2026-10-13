@@ -1,0 +1,58 @@
+import { test, expect } from 'playwright/test';
+const backend = 'http://127.0.0.1:8101/api/v1';
+
+test('operator maps defects, executes plan, reconciles leftovers and reads report', async ({ page, request }, info) => {
+    const code = `ROADMAP-${info.project.name}-${Date.now()}`;
+    const r = await (await request.post(`${backend}/remnants`, { data: { code, material_code: 'COTTON', color_code: 'BLACK', width_mm: 1000, height_mm: 800 } })).json();
+    await page.goto(`/remnants/${r.id}`);
+    await page.getByRole('button', { name: 'Tambah zona numerik', exact: true }).click();
+    const zone = page.getByRole('group', { name: 'Zona 1' });
+    await zone.getByLabel('Lebar (mm)', { exact: true }).fill('200');
+    await zone.getByLabel('Tinggi (mm)', { exact: true }).fill('800');
+    await page.getByRole('button', { name: 'Simpan zona cacat', exact: true }).click();
+    await expect(page.getByRole('button', { name: 'Simpan zona cacat', exact: true })).toBeEnabled();
+    await page.getByLabel('Saya sudah memeriksa bahan, warna, ukuran, kondisi, dan seluruh zona cacat.').check();
+    await page.getByRole('button', { name: 'Verifikasi kain', exact: true }).click();
+    await expect(page.getByRole('button', { name: 'Verifikasi kain', exact: true })).toHaveCount(0);
+    const o = await (await request.post(`${backend}/orders`, { data: { name: code, lines: [{ label: 'Panel', material_code: 'COTTON', color_code: 'BLACK', width_mm: 350, height_mm: 300, quantity: 1, allow_rotation_90: true }] } })).json();
+    const p = await (await request.post(`${backend}/plan-runs`, { data: { order_id: o.id, remnant_ids: [r.id], solver_time_limit_sec: 1 } })).json();
+    await page.goto(`/plans/${p.id}`);
+    await expect(page.locator('[aria-label^="Zona cacat"]')).toHaveCount(1);
+    await page.getByRole('button', { name: 'Simulasikan eksekusi selected plan', exact: true }).click();
+    await expect(page).toHaveURL(/\/executions\//);
+    await page.getByLabel('Saya sudah meninjau stok, kondisi, zona cacat, dan layout selected plan.').check();
+    await page.getByRole('button', { name: 'Setujui plan', exact: true }).click();
+    await page.getByRole('button', { name: 'Mulai simulasi pemotongan', exact: true }).click();
+    await page.getByLabel('Hasil potongan', { exact: true }).selectOption('COMPLETED');
+    await page.getByRole('button', { name: 'Simpan hasil', exact: true }).click();
+    await expect(page.getByText('1/1', { exact: true })).toBeVisible();
+    await page.getByLabel('Saya sudah meninjau seluruh outcome tersimpan. Source yang tersentuh akan dikarantina.').check();
+    await page.getByRole('button', { name: 'Konfirmasi hasil simulasi', exact: true }).click();
+    await page.getByRole('button', { name: 'Tambah sisa terukur', exact: true }).click();
+    const left = page.getByRole('group', { name: 'Sisa 1' });
+    await left.getByLabel('Kode lembar', { exact: true }).fill(`${code}-LEFT`);
+    await left.getByLabel('Lebar (mm)', { exact: true }).fill('200');
+    await left.getByLabel('Tinggi (mm)', { exact: true }).fill('100');
+    await page.getByLabel('Saya sudah memeriksa ukuran dan kondisi setiap sisa pada simulasi ini.').check();
+    await page.getByRole('button', { name: 'Simpan rekonsiliasi', exact: true }).click();
+    await expect(page.getByRole('heading', { name: `${code} · rekonsiliasi selesai` })).toBeVisible();
+    await page.goto('/reports');
+    await expect(page.getByRole('heading', { name: 'Rencana dan realisasi', exact: true })).toBeVisible();
+    await page.getByLabel('Sumber laporan').selectOption('OPERATOR_REPORTED');
+    await expect(page.getByText('Belum ada eksekusi untuk sumber laporan ini.', { exact: true })).toBeVisible();
+});
+
+test('CSV preview expands quantity and imported sheets need operator verification', async ({ page }, info) => {
+    const code = `CSV-${info.project.name}-${Date.now()}`;
+    await page.goto('/remnants/import');
+    await page.getByLabel('Isi CSV', { exact: true }).fill(`code,lot_code,material_code,color_code,width_mm,height_mm,quantity,condition_note\n${code},LOT,COTTON,BLACK,100,200,3,Diukur\n`);
+    await page.getByRole('button', { name: 'Preview dan validasi', exact: true }).click();
+    await expect(page.getByRole('heading', { name: 'Preview 1 baris → 3 lembar' })).toBeVisible();
+    await page.getByLabel('Saya sudah meninjau kode dan jumlah lembar pada preview.').check();
+    await page.getByRole('button', { name: 'Impor 3 lembar', exact: true }).click();
+    await expect(page.getByRole('heading', { name: '3 lembar berhasil diimpor' })).toBeVisible();
+    await page.getByLabel(`Pilih ${code}-001`, { exact: true }).check();
+    await page.getByLabel('Saya sudah memeriksa seluruh 1 lembar terpilih.').check();
+    await page.getByRole('button', { name: 'Verifikasi 1 lembar', exact: true }).click();
+    await expect(page.getByText('Verifikasi tersimpan.', { exact: true })).toBeVisible();
+});
